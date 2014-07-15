@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-3.10.1-20140818.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://poi.apache.org/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-excelant-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-ooxml-schemas-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="D:/Jacobo el que elimine esta carperta el corto el cuello y se acabo el juguete/poi-scratchpad-3.10.1-20140818.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
